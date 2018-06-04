@@ -154,5 +154,6 @@ class Prestress {
 }
 
 module.exports = {
-    Bar: Bar
+    Bar: Bar,
+    Prestress: Prestress
 }
